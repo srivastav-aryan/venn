@@ -1,3 +1,3 @@
-module github.com/aryansrivastava/venn
+module venn
 
 go 1.27.1
