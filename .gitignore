@@ -1,5 +1,6 @@
 # Project specific
 markdowns/*
+/fingerprint_machine_complete_notes.md
 
 # Binaries for programs and plugins
 bin/
@@ -21,3 +22,4 @@ profile.pprof
 .DS_Store
 .idea/
 .vscode/
+
